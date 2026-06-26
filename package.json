@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-javascript-einfach",
+  "version": "1.0.0",
+  "description": "Ein sehr einfaches JavaScript Projekt für den Einstieg in GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "MIT"
+}
